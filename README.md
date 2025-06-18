@@ -8,6 +8,7 @@ Este repositorio contiene las tareas y ejercicios prácticos realizados por **So
 |----------------------------------|--------------------------------------------------|-------------|
 | `HelloKotlin`                    | Aprendiendo cosas basicas de Kotlin              | 08/06/2025  |
 | `Funciones`                      | Aprendiendo funciones en Kotlin                  | 09/06/2025  |
+| `Clases`                         | Aprendiendo clases en Kotlin                     | 17/06/2025  |
 | `Ejercitario001`                 | Ejercicios para practicar Kotlin                 | 12/06/2025  |
 | `Ejercitario002`                 | Ejercicios para practicar Kotlin                 | 12/06/2025  |
 | `NextBig`                        | Calcula el siguiente número más grande posible   | 13/06/2025  |
