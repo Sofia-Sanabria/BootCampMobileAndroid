@@ -15,6 +15,7 @@ Este repositorio contiene las tareas y ejercicios prácticos realizados por **So
 | `Hakembo`                        | Implementacion del popular juego Ha-ke-mbo       | 13/06/2025  |
 | `Reloj`                          | Implementación de clase `Reloj` en Kotlin        | 16/06/2025  |
 | `Generala`                       | Representacion del juego de Dados Generala       | 17/06/2025  |
+| `Poker`                          | Clase que representa las Jugadas de Poker        | 17/06/2025  |
 
 ## 🛠️ Tecnologías utilizadas
 
