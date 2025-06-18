@@ -14,6 +14,7 @@ Este repositorio contiene las tareas y ejercicios prácticos realizados por **So
 | `NextBig`                        | Calcula el siguiente número más grande posible   | 13/06/2025  |
 | `Hakembo`                        | Implementacion del popular juego Ha-ke-mbo       | 13/06/2025  |
 | `Reloj`                          | Implementación de clase `Reloj` en Kotlin        | 16/06/2025  |
+| `Generala`                       | Representacion del juego de Dados Generala       | 17/06/2025  |
 
 ## 🛠️ Tecnologías utilizadas
 
